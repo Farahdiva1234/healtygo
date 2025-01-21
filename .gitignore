@@ -1,7 +1,7 @@
 /.phpunit.cache
 /node_modules
-/public/build
-/public/hot
+/public/buildgit credential-cache exit
+c/hot
 /public/storage
 /storage/*.key
 /vendor
